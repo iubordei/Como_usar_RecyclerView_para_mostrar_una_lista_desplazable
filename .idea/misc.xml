@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Iura/AndroidStudioProjects/Affirmations/app/src/main/res/drawable-anydpi-v26/ic_launcher_background.xml" value="0.1845" />
+        <entry key="..\:/Users/Iura/AndroidStudioProjects/Affirmations/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Iura/AndroidStudioProjects/Affirmations/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/Iura/AndroidStudioProjects/Affirmations/app/src/main/res/layout/activity_main.xml" value="0.17350557244174267" />
         <entry key="..\:/Users/Iura/AndroidStudioProjects/Affirmations/app/src/main/res/layout/list_item.xml" value="0.18034447821681865" />
       </map>
